@@ -9,7 +9,7 @@ from openpyxl.utils import get_column_letter
 url = 'https://asvabadvantage.memberful.com/api/graphql'
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer MGKVnam26x6dapNgwi48YKwX',
+    'Authorization': 'Bearer ',
 }
 
 # Template for the GraphQL query with pagination
