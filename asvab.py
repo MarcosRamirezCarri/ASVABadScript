@@ -8,7 +8,7 @@ import os
 import json
 
 # Get Bearer token from environment variable or use a default
-BEARER_TOKEN = os.environ.get('ASVAB_BEARER_TOKEN', 'MGKVnam26x6dapNgwi48YKwX')
+BEARER_TOKEN = os.environ.get('ASVAB_BEARER_TOKEN', 'your-bearer-token-here')
 
 # Your Memberful endpoint and headers
 url = 'https://asvabadvantage.memberful.com/api/graphql'
